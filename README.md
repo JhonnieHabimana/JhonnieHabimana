@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a **Junior Data Engineer** with a background in **Biom
 ## 🎓 Academic Background
 I recently completed my MSc in Biomedical Engineering, where I focused on combining engineering principles with data science to solve real-world challenges. My thesis, **"Using Machine Learning to Automate Signal Quality Control for Large Time-Series Datasets"**, involved developing classification models and tools to streamline the validation of biomedical sensor data — a key step in improving data integrity at scale.
 
-## 💼 Industry Experience
-During my 8-month internship at the **Insight SFI Centre for Data Analytics**, I worked on a wide range of data engineering tasks, including:
+## 💼 Industry Experience (1 year 5 months)
+During my time at the **Insight SFI Centre for Data Analytics**, I worked on a wide range of data engineering tasks, including:
 - Designing and deploying **ETL pipelines** using Python and SQL
 - Building a fully functional **Signal Quality Control (SQC) GUI Tool** from scratch using Python
 - Processing and analyzing **large time-series datasets**
